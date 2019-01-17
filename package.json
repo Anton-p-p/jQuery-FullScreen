@@ -5,6 +5,6 @@
 	"requires": true,
 	"lockfileVersion": 1,
 	"files": [
-		"lib/jquery.highlight-5.js"
+		"fullscreen/jquery.fullscreen.js"
 	]
 }
